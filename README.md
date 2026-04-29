@@ -112,14 +112,6 @@ I’m **Rishabh Borisagar**, an Offensive Security enthusiast focused on practic
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BorisagarRushabh/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
