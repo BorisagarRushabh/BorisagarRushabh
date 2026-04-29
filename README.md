@@ -1,7 +1,7 @@
 <!-- ================= CYBERPUNK HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffcc&height=250&section=header&text=Rishabh%20Borisagar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Offensive%20Security%20|%20Red%20Team%20Path&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffcc&height=250&section=header&text=Rushabh%20Borisagar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Offensive%20Security%20|%20Red%20Team%20Path&descAlignY=70" />
 </p>
 
 <p align="center">
