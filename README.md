@@ -154,59 +154,8 @@ Hunting on live targets, focused on real-world web vulnerabilities and the logic
 ### `[0x06]` Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BorisagarRushabh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorisagarRushabh&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BorisagarRushabh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BorisagarRushabh&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BorisagarRushabh/BorisagarRushabh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<details>
-<summary><sub>⚙️ the contribution snake needs a one-time setup — click to see how</sub></summary>
-<br>
-
-The snake animation above eats your contribution graph, but it only renders once you generate it in **your own profile repo** (`BorisagarRushabh/BorisagarRushabh`). Add this workflow as `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: BorisagarRushabh
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push it once, let the Action run, and the snake will animate itself using your real commit history — no fabricated data, just your actual graph.
-
-</details>
 
 ---
 
